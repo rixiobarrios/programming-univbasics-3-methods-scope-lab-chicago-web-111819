@@ -15,6 +15,6 @@ def link
 end
 
 def any_phrase
-  phrase = 0
+  phrase = "I believe I can fly"
   puts phrase
 end
