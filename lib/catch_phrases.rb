@@ -15,6 +15,6 @@ def link
 end
 
 def any_phrase
-  phrase()
+  phrase = 0
   puts phrase
 end
